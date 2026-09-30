@@ -60,6 +60,7 @@ To stop JSON Server, press:
 Ctrl + C
 ```
 
+
 ## 💡 Note
 
 Run the `json-server students.json` command **from the directory containing `students.json`**.
